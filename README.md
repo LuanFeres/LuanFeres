@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Luan! 👋
 
-<!--
-**LuanFeres/LuanFeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
+💡 Apaixonado por tecnologia, programação e aprendizado contínuo.
 
-Here are some ideas to get you started:
+## 🛠️ Principais habilidades
+- **Java** (Spring, JPA/Hibernate, JDBC)
+- **JavaScript** (Node.js, React)
+- **SQL**  
+- Outras tecnologias: Git, APIs REST, melhores práticas de desenvolvimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Sou um estudante dedicado, sempre buscando aprimorar meus conhecimentos e explorar novas tecnologias. Gosto de desafios e de trabalhar em projetos que possam impactar positivamente as pessoas.
+
+- 🎮 Amo video-games
+- 🏃 Pratico esportes regularmente
+- 📚 Leitor assíduo de livros
+- 🔄 Sempre em busca de evolução pessoal e profissional
+
+## 🌐 Vamos nos conectar!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/luan-da-silva-feres-361900210)
+
+---
+
+> “O aprendizado constante é a chave para o sucesso na tecnologia.” 🚀
