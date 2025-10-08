@@ -7,7 +7,7 @@
 - **Java** (Spring, JPA/Hibernate, JDBC)
 - **JavaScript** (Node.js, React)
 - **SQL**  
-- Outras tecnologias: Git, APIs REST, melhores práticas de desenvolvimento
+- Outras tecnologias: Git, APIs REST.
 
 ## 🚀 Sobre mim
 Sou um estudante dedicado, sempre buscando aprimorar meus conhecimentos e explorar novas tecnologias. Gosto de desafios e de trabalhar em projetos que possam impactar positivamente as pessoas.
